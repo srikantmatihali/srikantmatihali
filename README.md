@@ -10,3 +10,13 @@
 srikantmatihali/srikantmatihali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<h2 align="left">💻 Github Stats</h2>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=iamkesharinandan&show_icons=true&count_private=true" alt="iamkesharinandan" />
+</p>
+<p align="left">
+    <a href="https://github.com/iamkesharinandan">
+    <img width="485" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkesharinandan"  alt="Most used languages"/>
+    </a>
+</p>
